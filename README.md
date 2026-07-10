@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction
 
-A Machine Learning web application built using **Streamlit** that predicts the likelihood of heart disease based on user health parameters.
+A Machine Learning web application that predicts the likelihood of heart disease based on user health parameters.
 
 ## 🚀 Features
 
